@@ -1,16 +1,10 @@
 # Ciudadanos de 4 Patas
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/gJcp2vH/Ciudadados-de-4-Patas.png" alt="Ciudadados-de-4-Patas" border="0" width="200" height="200"></a>
+<a href="https://imgbb.com/"><img src="https://e7.pngegg.com/pngimages/120/234/png-clipart-paw-logo-dog-dog-animals-paw.png" alt="Ciudadados-de-4-Patas" border="0" width="200" height="200"></a>
 
-### Información General del Proyecto
-***
-## Universidad El Bosque ##
-#### Docente: Fabian Camilo Peña ####
-<img src="http://www.acofi.edu.co/eiei2018/wp-content/uploads/2018/07/Logo-Universidad-El-Bosque.jpg" width="200" height="200">
 
 #### Integrantes:
-- David Leonardo, Lopez Forero
-- Briannys Ahiram, Páez Monserrate 
-- Sergio Eduardo, Peña Alméciga 
+-Juan Esteban Martinez 
+-Esteban Uribe Calderón
 
 ### Acerca de ###
 ***
@@ -19,8 +13,4 @@ El siguiente proyecto tiene como objetivo profundizar en temas como JavaScript, 
  - [Workshop 2](https://docs.google.com/document/d/1yMLPRiJaMTPgmspLGQwUeujxScXJpiswhssQhPmvQmQ/edit)
  - [WebDev](https://webdev-elbosque.github.io/syllabus.html)
 
-#### Link del repositorio: https://github.com/gitForDavidL/ProgTaller2.git ####
 
-### Dificultades ###
-***
-Se tuvo una difiucltad, la cual fue que a la hora de subir la página web a git pages no se podía subir desde el respositorio anteriror, por tanto nos vimos obligados a crear un nuevo repositorio que es en el que estamos subiendo, el repositorio anterior es [Repositorio](https://github.com/gitForDavidL/ProgramacionActividad2.git)
